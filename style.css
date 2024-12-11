@@ -1,0 +1,104 @@
+.pagetitle{
+    text-align:Center;
+    background-image: url("images/salon4.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position-y:-600px;
+    height:450px;
+    color:white;
+}
+.homepage{
+    background-color:lightslategray;
+}
+ul{
+    text-align:center;
+    list-style-position:inside;
+}
+.navigationbar{
+    text-align:center;
+    background-color:cadetblue;
+    font-size:50px;   
+}
+#prcie{
+    Margin-left:100px;
+    Margin-right:100px;
+}
+#apointment{
+    Margin-left:100px;
+    Margin-right:100px;
+}
+#service{
+    Margin-left:100px;
+    Margin-right:100px;
+}
+#homepage{
+    Margin-left:100px;
+    Margin-right:100px;
+}
+.aboutus{
+    text-align:center;
+}
+.pagetitleservices{
+    text-align:Center;
+    background-color: darkcyan;
+}
+#kids{
+    height:600px;
+    width:350px;
+}
+#mens{
+    height:600px;
+    width:350px;
+}
+
+#womens{
+    height:600px;
+    width:350px;
+}
+#mission{
+    color:aliceblue;
+}
+#menshair{
+    height:100px;
+    width:55px;
+}
+#Calendar td, th{
+    text-align:Center;
+    margin-left:auto;
+    width:93.5%;
+    background-color:white;
+}
+.apointmentinfo{
+    text-align:Center;
+    background-color:blanchedalmond;
+}
+#Calendar td{
+    padding:85px;
+}
+.Dec{
+    text-align:center;
+}
+.pricesheader{
+    text-align:center;
+    background-color:azure;
+}
+.prices{
+    font-size:large;
+    background-color:cornsilk;
+}
+.apointment{
+    background-color:beige;
+}
+.servicespic{
+    height:550px;
+    width:500px;
+}
+#services{
+    text-align:center;
+}
+#services1{
+    background-color:beige;
+}
+#Prices2{
+    background-color:blanchedalmond;
+}
